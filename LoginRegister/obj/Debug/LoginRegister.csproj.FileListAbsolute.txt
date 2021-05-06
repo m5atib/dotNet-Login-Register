@@ -2,9 +2,9 @@ C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug
 C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe
 C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug\LoginRegister.pdb
 C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\bin\Debug\Guna.UI2.dll
-C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Login.resources
 C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.SignUp.resources
 C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.cache
 C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\C# Projects Testing\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CopyComplete
